@@ -34,5 +34,4 @@ public class BookAplication implements WebMvcConfigurer {
         registry.addResourceHandler("/api/**")
           .addResourceLocations("/api/"); 
     }
-    /***/
 }

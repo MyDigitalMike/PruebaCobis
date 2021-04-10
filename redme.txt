@@ -1,0 +1,10 @@
+SQL SERVER:
+1. Crear Un Usuario Llamado UserLogin Con Clave: Miguel123
+2. Importar Script de DB Anexo
+JAVA
+1. IDE NetBeans abrir el proyecto
+2. correr el archivo BookAplication.java (No parar su ejecuccion)
+Angular
+1.realizar ng-build
+2.para correr el proyecto usar el comando ng serve --proxy-config proxy.conf.json --host=0.0.0.0
+para evitar error de cross-plataform
